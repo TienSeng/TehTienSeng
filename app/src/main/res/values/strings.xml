@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TehTienSeng</string>
+    <string name = "age">Age :</string>\
+    <string name="renew">Renew</string>
+    <string-array name="category">
+        <item>None</item>
+        <item>Senior Citizens</item>
+        <item>Haj pilgrims</item>
+        <item>Students</item>
+        <item>Study Abroad</item>
+        <item>Disabled</item>
+    </string-array>
+</resources>
